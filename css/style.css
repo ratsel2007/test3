@@ -241,7 +241,7 @@ h6 {
 .icon-menu {
   display: none;
 }
-@media (max-width: 61.99875em) {
+@media (max-width: 23.4375em) {
   .icon-menu {
     display: block;
     position: absolute;
